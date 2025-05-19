@@ -8,6 +8,6 @@ I am also comfortable working with RapidMiner for Sentiment Analysis.
 
 🛠 Tools & Skills:
 
-Python | RapidMiner | OracleApex | Java
+Python | RapidMiner | OracleApex | Microsoft Office
 
 📫 Let's connect: [Email](mailto:deliena.tasha1@gmail.com)
