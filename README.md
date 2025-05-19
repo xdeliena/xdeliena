@@ -7,7 +7,6 @@ I am also comfortable working with RapidMiner for Sentiment Analysis.
 - Coral Reefs Bleaching Prediction using ML
 
 🛠 Tools & Skills:
-
 Python | RapidMiner | OracleApex | Microsoft Office
 
 📫 Let's connect: [Email](mailto:deliena.tasha1@gmail.com)
